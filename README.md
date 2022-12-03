@@ -9,7 +9,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=dor3Monbotz&repo=crownRenameBot_V3&theme=dark)
 
 
-### SAME BOT (official pyro rename bot)
+### SAME BOT (official Crown rename bot)
 
 <p align="center">
 🤖 <a href="https://t.me/CrownRenameRoBot"><img title="Telegram" src="https://img.shields.io/static/v1?label=CrownRenameBot&message=BOT&color=blue-green"></a> 🤖
