@@ -6,7 +6,7 @@
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=dor3Monbotz&repo=crownRenameBot_V3&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=dor3Monbotz&repo=crownRenameBot_V3&owner=https://t.me/little_little_hackur&theme=dark)
 
 
 ### SAME BOT (official Crown rename bot)
