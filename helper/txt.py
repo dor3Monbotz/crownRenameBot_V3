@@ -34,7 +34,7 @@ class mr(object):
 ╰━━━━━━━━━━━━━━━➣ """
 
     ABOUT_TXT = """
-╔════❰ CROWN RENAME BOT ❱═❍⊱❁۪۪
+╔════❰ RENAME BOT ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/projectcrown>𝚃𝚎𝚊𝚖 𝙲𝚛𝚘𝚠𝚗 𝙱𝚘𝚝𝚣</a> 
 ║┣⪼👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://t.me/little_little_hackur>𝙱𝚕𝚊𝚌𝚔 𝙷𝚊𝚝</a>
